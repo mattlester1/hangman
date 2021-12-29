@@ -8,10 +8,10 @@ Created on Sun Nov 21 08:36:53 2021
 import random as rd
 
 
-states = ["idaho", "utah", "california", "new york", "florida", "washington", "oregon"]
+states = ["idaho", "utah", "california", "new york", "florida", "washington", "oregon", "ohio", "new jersey", "north dakota", "south dakota", "iowa", "kansas"]
 holidays = ['christmas', 'thanksgiving', 'easter', 'forth of july', 'halloween', 'new years']
-movies = ['top gun', 'mission impossible', 'jack reacher', 'days of thunder', 'red notice']
-marvel = ['iron man', 'hulk', 'captain america', 'thor', 'black widow', 'black panther', 'vision', 'spiderman']
+movies = ['top gun', 'mission impossible', 'jack reacher', 'days of thunder', 'red notice', 'titanic', 'avengers', 'support your local sheriff', 'saving private ryan']
+marvel = ['iron man', 'hulk', 'captain america', 'thor', 'black widow', 'black panther', 'vision', 'spiderman', 'hawkeye', 'superman', 'wonder woman']
 
 catagories = [states, holidays, movies, marvel]
 
