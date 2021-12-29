@@ -30,7 +30,7 @@ def hangman():
                                 "states = 0 "
                                 "holidays = 1 "
                                 "movies = 2 " 
-                                "marvel superheros = 3):")))]
+                                "superheros = 3):")))]
     word = rd.choice(cat)
     rletters =list(word)
     board = ["__"] * len(word)
